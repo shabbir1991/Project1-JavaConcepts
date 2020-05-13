@@ -6,8 +6,8 @@ package accessModifiers.com;
 public class SameClassSamePackage {
 // public variable
 	public String name;
-// Private Variable	
-	private int no;
+
+	private int no; // private varibale.
 // Default Variable	
 	boolean status;
 	public static void main(String[] args) {
